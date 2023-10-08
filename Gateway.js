@@ -281,7 +281,7 @@ class Gateway extends EventEmitter {
       internalHost: this.network.address,
       remoteHost  : "",
       protocol    : "TCP",
-      description : "zag:upnp",
+      description : "NodeJS UPnP",
       portScan    : true,
       ...options,
     };
@@ -312,7 +312,7 @@ class Gateway extends EventEmitter {
       internalHost: this.network.address,
       externalHost: "",
       protocol    : "TCP",
-      description : "zag:upnp",
+      description : "NodeJS UPnP",
       ...options,
     };
 

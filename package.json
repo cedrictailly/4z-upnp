@@ -1,6 +1,6 @@
 {
   "name": "4z-upnp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A UPnP port forwarder (rewrite of nat-upnp)",
   "main": "index.js",
   "repository": {
